@@ -1,0 +1,13 @@
+Detecting Personality and Mental Disorders Through Monitoring Computer Usage
+
+Hypothesis: Personality and mental disorders show patterns in the way a person uses a computer.
+
+Methods:
+Use Markov chains to categorize computer actions.
+Ex: Find a sequence of actions performed that happen repeatedly.
+Ritualistic behavior may be reflected in this.
+
+Categorize computer programs
+Detect when programs are switched into focus
+Measure speed of mouse movements, button clicked, and programs switched
+
